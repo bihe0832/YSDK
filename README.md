@@ -22,7 +22,7 @@ YSDK Android客户端相关文档，完整内容请前往YSDK线上wiki查看，
  
 介绍YSDK相关的基本内容，包括集成的模块、名词解释、环境和权限介绍
  
- - [YSDK介绍](#YSDK介绍.md)
+ - [YSDK介绍](YSDK介绍.md)
  
 ******
 
@@ -30,8 +30,8 @@ YSDK Android客户端相关文档，完整内容请前往YSDK线上wiki查看，
  
 介绍YSDK接入相关的内容，包括快速接入的几个步骤、如何下载、更新、代码混淆、SDK的版本历史、常见问题、测试验证用例等
  
- - [YSDK下载](#YSDK接入-YSDK下载.md)
- - [快速接入](#YSDK接入-快速接入.md)
+ - [YSDK下载](YSDK接入-YSDK下载.md)
+ - [快速接入](YSDK接入-快速接入.md)
  - [SDK更新](#YSDK接入-SDK更新.md)
  - [代码混淆](#YSDK接入-代码混淆.md)
  - [版本历史](#YYSDK接入-版本历史.md)
