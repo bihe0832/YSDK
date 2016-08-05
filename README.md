@@ -8,10 +8,10 @@ YSDK Android客户端相关文档，完整内容请前往YSDK线上wiki查看，
 
 ## 目录
 
-- [SDK介绍](#SDK介绍)
-- [SDK接入](#SDK接入)
+- [SDK介绍](#SDK%E4%BB%8B%E7%BB%8D)
+- [SDK接入](#SDK%E6%8E%A5%E5%85%A5)
 - [游客接入](#游客接入)
-- [微信手Q](#微信)
+- [微信手Q](#微信手Q)
 - [支付接入](#支付接入)
 - [工具接口](#工具接口) 
 - [常量查询](#常量查询)
@@ -49,7 +49,7 @@ YSDK Android客户端相关文档，完整内容请前往YSDK线上wiki查看，
  
 ******
 
-## [微信](http://wiki.open.qq.com/wiki/%E5%BE%AE%E4%BF%A1%E4%B8%8E%E6%89%8BQ%E6%8E%A5%E5%85%A5)
+## [微信手Q](http://wiki.open.qq.com/wiki/%E5%BE%AE%E4%BF%A1%E4%B8%8E%E6%89%8BQ%E6%8E%A5%E5%85%A5)
  
 介绍YSDK与手Q和微信相关的功能
  
