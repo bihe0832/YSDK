@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/github/YSDK/demo-single_activity/demo-single_activity.iml" filepath="$USER_HOME$/Documents/github/YSDK/demo-single_activity/demo-single_activity.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/github/YSDK/demo-single_activity/ysdkdemo/ysdkdemo.iml" filepath="$USER_HOME$/Documents/github/YSDK/demo-single_activity/ysdkdemo/ysdkdemo.iml" />
+    </modules>
+  </component>
+</project>

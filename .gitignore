@@ -1,2 +1,14 @@
 
 .svn
+
+demo-mutil-activity/.gradle/
+
+demo-mutil-activity/.idea/
+
+demo-mutil-activity/build/
+
+demo-single_activity/.DS_Store
+
+demo-single_activity/.gradle/2.5/taskArtifacts/cache.properties
+
+demo-single_activity/.idea/.name
