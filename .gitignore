@@ -15,9 +15,7 @@ demo-single_activity/.gradle/
 
 demo-single_activity/.idea/
 
-demo-single_activity/.idea/workspace.xml
-
-demo-single_activity/.idea/workspace.xml
+demo-single_activity/.idea/
 
 demo-single_activity/ysdkdemo/ysdkdemo.iml
 
@@ -30,3 +28,5 @@ demo-mutil-activity/ysdkdemo/ysdkdemo.iml
 wiki/.DS_Store
 
 demo-single_activity/demo-single_activity.iml
+
+demo-single_activity/build/
