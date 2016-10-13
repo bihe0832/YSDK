@@ -51,10 +51,10 @@ public class SplashActivity extends Activity {
 
         ModuleManager.LANG = LANG;
 
-        final Intent intent = getIntent();
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
+                Intent intent = new Intent();
                 intent.setClass(SplashActivity.this, MainActivity.class);
                 SplashActivity.this.startActivity(intent);
                 SplashActivity.this.finish();
