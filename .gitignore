@@ -1,6 +1,8 @@
 
 .svn
 
+.DS_Store
+
 demo-mutil-activity/.gradle/
 
 demo-mutil-activity/.idea/
@@ -24,3 +26,7 @@ demo-mutil-activity/.DS_Store
 demo-single_activity/ysdkdemo/.DS_Store
 
 demo-mutil-activity/ysdkdemo/ysdkdemo.iml
+
+wiki/.DS_Store
+
+demo-single_activity/demo-single_activity.iml
