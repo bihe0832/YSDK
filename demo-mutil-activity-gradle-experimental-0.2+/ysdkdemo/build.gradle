@@ -27,10 +27,6 @@ model {
         debug {
             storeFile = file('./../debug.keystore')
         }
-
-        create("allRelease") {
-            storeFile = file('./../debug.keystore')
-        }
     }
 
     android.buildTypes {

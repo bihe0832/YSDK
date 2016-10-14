@@ -20,10 +20,6 @@ model {
         debug {
             storeFile = file('./../debug.keystore')
         }
-
-        create("signRelease") {
-            storeFile = file('./../ysdk.keystore')
-        }
     }
     android.buildTypes {
         release {
