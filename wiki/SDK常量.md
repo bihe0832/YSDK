@@ -44,8 +44,16 @@ LoginRet 保存用户登录相关的票据信息，其定义如下：
 	    std::vector<UserToken> token;
 	    std::string pf;
 	    std::string pfKey;
+	   	int login_type; // 登陆回调类型，YSDK 1.2.4版本开始支持
 	}UserLoginRet;
 
+其中login_type有对应的登陆类型，当游戏收到登陆回调时可以通过该字段来判断登陆类型，字段取值含义及对应的定义如下：
+
+|  login_type类型 | Java定义 | 对应值 | 
+|:-------------:|:-------------:|:-------------:|
+| 授权登陆	|	`UserLoginRet.LOGIN_TYPE_AUTH` | 0 |
+| 自动登录	|	`UserLoginRet.LOGIN_TYPE_AUTO` | 1|
+| 定时登录	|	`UserLoginRet.LOGIN_TYPE_TIMER` | 2 |
 
 ## 4. WakeupRet
 

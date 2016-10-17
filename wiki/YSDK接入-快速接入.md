@@ -167,6 +167,8 @@ YSDK初始化是使用SDK所提供功能可以执行的前提。游戏在应用�
 
 **目前YSDK从1.2.4版本开始Demo为使用多个Activity，游戏可以参照YSDK的Demo代码查看生命周期如何设置。单Activity的游戏可以[点击查看基于YSDK 1.1.1的单Activity的Demo代码](https://github.com/bihe0832/YSDK)**
 
+**目前YSDK从1.2.4版本开始Demo为使用多个Activity，游戏可以参照YSDK的Demo代码查看生命周期如何设置。单Activity的游戏可以[点击查看基于YSDK 1.1.1的单Activity的Demo代码](https://github.com/bihe0832/YSDK)**
+
 ##### onCreate
 
 游戏需要在**Launcher Activity和Main Activity**的onCreate方法中调用此接口，以实现对单机SDK进行初始化。
