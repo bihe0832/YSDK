@@ -27,25 +27,25 @@
 	
 - 简介：YSDK的多Activity的SDK Demo
 - SDK版本：1.2.2
-- 运行IED：Android Studio & build.tools:gradle 1.+ & gradle 2.10
+- 运行IED：Android Studio 2.1.2 & build.tools:gradle 1.+ & gradle 2.10
 
 #### demo-mutil-activity-gradle-experimental：
 	
 - 简介：YSDK的多Activity的SDK Demo
 - SDK版本：1.2.2
-- 运行IED：Android Studio & build.tools:-experimental-0.2+ & gradle 2.5
+- 运行IED：Android Studio  2.1.2 & build.tools:-experimental-0.2+ & gradle 2.5
 
 #### demo-single-activity-gradle（推荐）：
 
 - 简介：YSDK的单Activity的SDK Demo
 - SDK版本：1.1.1
-- 运行IED：Android Studio & build.tools:gradle 1.+ & gradle 2.10
+- 运行IED：Android Studio  2.1.2 & build.tools:gradle 1.+ & gradle 2.10
 	 
 #### demo-single-activity-gradle-experimental
 
 - 简介：YSDK的单Activity的SDK Demo
 - SDK版本：1.1.1
-- 运行IED：Android Studio & build.tools:-experimental-0.2+ & gradle 2.5
+- 运行IED：Android Studio  2.1.2 & build.tools:-experimental-0.2+ & gradle 2.5
 
 ## wiki
 
