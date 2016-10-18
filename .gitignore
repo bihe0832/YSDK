@@ -1,3 +1,11 @@
 
 *.db
 *.svn
+*.gradle
+*.idea
+
+build
+
+*/local.properties
+
+*.iml

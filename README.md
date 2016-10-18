@@ -21,31 +21,35 @@
 	- 修改根目录下build.gradle中对于使用的maven库的声明
 	- 标准版本需要修改根目录下gradle.properties文件，添加参数：android.useDeprecatedNdk=true
 
+### 特别说明：
+
+ **每个demo的项目的README文件中有对应Demo运行时的一些依赖说明，请运行时格外关注。**
+ 
 ### 工程介绍
 
 #### demo-mutil-activity-gradle（推荐）：
 	
 - 简介：YSDK的多Activity的SDK Demo
 - SDK版本：1.2.2
-- 运行IED：Android Studio 2.1.2 & build.tools:gradle 1.+ & gradle 2.10
+- 运行IED：Android Studio 2.1 & com.android.tools.build:gradle:1.+ & gradle 2.10
 
 #### demo-mutil-activity-gradle-experimental：
 	
 - 简介：YSDK的多Activity的SDK Demo
 - SDK版本：1.2.2
-- 运行IED：Android Studio  2.1.2 & build.tools:-experimental-0.2+ & gradle 2.5
+- 运行IED：Android Studio 2.1 & com.android.tools.build:gradle-experimental:0.2.+ & gradle 2.5
 
 #### demo-single-activity-gradle（推荐）：
 
 - 简介：YSDK的单Activity的SDK Demo
 - SDK版本：1.1.1
-- 运行IED：Android Studio  2.1.2 & build.tools:gradle 1.+ & gradle 2.10
+- 运行IED：Android Studio 2.1 & com.android.tools.build:gradle:1.+ & gradle 2.10
 	 
 #### demo-single-activity-gradle-experimental
 
 - 简介：YSDK的单Activity的SDK Demo
 - SDK版本：1.1.1
-- 运行IED：Android Studio  2.1.2 & build.tools:-experimental-0.2+ & gradle 2.5
+- 运行IED： Android Studio 2.1 & com.android.tools.build:gradle-experimental:0.2.+ & gradle 2.5
 
 ## wiki
 
