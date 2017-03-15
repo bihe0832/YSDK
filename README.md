@@ -28,20 +28,10 @@ YSDK是腾讯应用宝开发团队为移动游戏开发者提供的公共组件�
 	
 ## YSDK Demo
 
-### 运行方法：
+### 运行方法
 
-- 运行方式	
-	
-	- 使用Android Studio 导入对应工程
-	
-- 准备工作
-
-	运行之前要先根据自己的网络环境以及对应的gradle插件版本修改下面几个文件。
-	
-	- 修改根目录下local.properies中的ndk.dir和sdk.dir的环境配置
-	- 修改根目录下gradle/wrapper/gradle-wrapper.properties 关于使用的gradle版本的地址的修改
-	- 修改根目录下build.gradle中对于使用的maven库的声明
-	- 标准版本需要修改根目录下gradle.properties文件，添加参数：android.useDeprecatedNdk=true
+如何修改配置及运行工程，请参考本人博客：[终端基于gradle的开源项目运行环境配置指引](
+http://blog.bihe0832.com/android-as-gradle-config.html)
 
 ### 特别说明：
 
